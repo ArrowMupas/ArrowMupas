@@ -1,17 +1,6 @@
-**Full-Stack Web Developer**
-
-Quezon City, Philippines · [delmontearrow2004@gmail.com](mailto:delmontearrow2004@gmail.com) · 09394286776 · [LinkedIn](https://linkedin.com/in/arrow-mupas-aab9bb383)
-
----
-
-## 👋 About Me
+# 👋 About Me
 
 I'm a Computer Science graduate (Cum Laude) from STI College Fairview with hands-on experience building full-stack web applications. I enjoy turning manual workflows into clean, efficient digital systems—from RESTful APIs and authentication to responsive UIs and cloud deployment.
-
-- 🎓 **BS Computer Science** — STI College Fairview (Cum Laude, GWA: 1.41)
-- 🏆 **Best Thesis Award** — Online Ordering System with real-time inventory
-- 💼 **OJT Full-Stack Web Developer** at National Electrification Administration
-- 🌱 Currently exploring: Next.js, Laravel, .NET, and mobile/game development
 
 ---
 
@@ -58,14 +47,3 @@ I'm a Computer Science graduate (Cum Laude) from STI College Fairview with hands
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-
----
-
-## 🏅 Awards & Recognition
-
-| Award | Institution | Date |
-|---|---|---|
-| **Cum Laude** (GWA: 1.41) | STI College Fairview | 07/17/2026 |
-| **Best Thesis** — Full-stack online ordering system with real-time inventory and REST APIs | STI College Fairview | 10/01/2026 |
-| **Entrepreneurial Week Champion** — Best Booth, Best Product (Digital STI ID prototype with QR-code scanning for attendance and exit tracking) | STI College Fairview | 01/12/2024 |
-
