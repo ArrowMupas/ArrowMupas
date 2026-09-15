@@ -1,10 +1,4 @@
-# 👋 About Me
-
-I'm a Computer Science graduate (Cum Laude) from STI College Fairview with hands-on experience building full-stack web applications. I enjoy turning manual workflows into clean, efficient digital systems—from RESTful APIs and authentication to responsive UIs and cloud deployment.
-
----
-
-## 🛠️ Tech Stack
+# Tech Stack
 
 **Web Development**
 
