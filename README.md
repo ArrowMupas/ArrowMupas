@@ -1,5 +1,3 @@
-# Arrow Mupas
-
 **Full-Stack Web Developer**
 
 Quezon City, Philippines · [delmontearrow2004@gmail.com](mailto:delmontearrow2004@gmail.com) · 09394286776 · [LinkedIn](https://linkedin.com/in/arrow-mupas-aab9bb383)
@@ -63,41 +61,6 @@ I'm a Computer Science graduate (Cum Laude) from STI College Fairview with hands
 
 ---
 
-## 💼 Experience
-
-### Full-Stack Web Developer (OJT)
-**National Electrification Administration** · *02/2026 – 05/2026 · Quezon City, Philippines*
-
-- Built and deployed a full-stack web application using **React, Tailwind CSS, PostgreSQL, and Supabase** to digitize daily service requests and streamline manual workflows.
-- Developed **RESTful APIs** for CRUD operations and real-time data synchronization across the Transport Operations Services Department.
-- Implemented **authentication and role-based authorization** for three user roles, with input validation and error handling to protect sensitive operational data.
-- Provided IT support and computer management—workstation setup, file organization, software configuration, and troubleshooting.
-
----
-
-## 🚀 Featured Projects
-
-### Online Ordering System — *Alas Delis and Spices*
-**Thesis Project · 🏆 Best Thesis Award** · *03/2025 – 11/2025*
-
-- Developed a full-stack online ordering system using **React, Tailwind CSS, Node.js, MySQL, and MongoDB**.
-- Built **RESTful APIs** with authentication, order processing, and real-time inventory management.
-- Designed order management and database logic to synchronize inventory with customer orders and maintain data consistency.
-- Deployed the application using **Render** and tested API functionality with **Postman**.
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science**
-STI College Fairview · *09/2022 – 07/2026*
-
-- **Graduated Cum Laude** · GWA: 1.41
-- **Relevant Coursework:** Information Management, Information Assurance and Security, Data Structures & Algorithms, Software Engineering
-- **Programming & Development:** Java, Python, C#, Mobile Development, Game Development, Android Studio, Unity, Microsoft Power Apps
-
----
-
 ## 🏅 Awards & Recognition
 
 | Award | Institution | Date |
@@ -106,15 +69,3 @@ STI College Fairview · *09/2022 – 07/2026*
 | **Best Thesis** — Full-stack online ordering system with real-time inventory and REST APIs | STI College Fairview | 10/01/2026 |
 | **Entrepreneurial Week Champion** — Best Booth, Best Product (Digital STI ID prototype with QR-code scanning for attendance and exit tracking) | STI College Fairview | 01/12/2024 |
 
----
-
-## 📫 Let's Connect
-
-- 📧 [delmontearrow2004@gmail.com](mailto:delmontearrow2004@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/arrow-mupas-aab9bb383)
-- 📱 09394286776
-- 📍 Quezon City, Philippines
-
----
-
-*Thanks for stopping by! Feel free to explore my repositories or reach out for collaborations.*
