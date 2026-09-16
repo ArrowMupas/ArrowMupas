@@ -1,91 +1,62 @@
-# 🧰 Tech Stack & Packages
+# JS Libraries
 
-A breakdown of the libraries and tools I use across my React frontend and Node.js backend projects.
+The libraries and tools I use across my Frontend React.js and Backend Node.js projects.
 
 ---
 
-## ⚛️ Frontend — React Projects
+## Frontend — React Projects (Combined)
 
-### Project 1: Alas Web *(Online Ordering System)*
-
-**Core**
+## Core
 - `react` · `react-dom`
 - `react-router-dom`
 - `vite`
 
-**UI & Styling**
-- `tailwindcss` · `@tailwindcss/vite` · `tailwind-merge` · `clsx` · `class-variance-authority`
-- `flowbite-react` · `radix-ui` · `@radix-ui/*` (dialog, dropdown-menu, popover, select, separator, slot, switch, tabs)
-- `lucide-react` · `react-icons`
-- `framer-motion` · `lottie-react` · `react-confetti` · `react-fast-marquee`
-- `sonner` · `vaul` · `cmdk`
+## UI & Styling
+- `tailwindcss` · `@tailwindcss/vite` · `tailwind-merge`
+- `daisyui`
+- `clsx` · `class-variance-authority`
+- `flowbite-react` · `radix-ui` · `@radix-ui/*`
 - `react-aria-components` · `@internationalized/date`
+- `lucide-react` · `react-icons`
+- `framer-motion`
+- `lottie-react` · `react-confetti` · `react-fast-marquee`
+- `sonner` · `vaul` · `cmdk`
+- `react-hot-toast` · `@tippyjs/react`
+- `react-image-magnify-lib`
 
-**Forms & Validation**
-- `react-hook-form` · `@hookform/resolvers` · `yup`
+## Forms & Validation
+- `react-hook-form` · `@hookform/resolvers` · `yup` · `zod`
 
-**Data & State**
+## Data & State
 - `@tanstack/react-query` · `@tanstack/react-query-devtools`
 - `@tanstack/react-table`
 - `zustand`
 - `axios`
+- `@supabase/supabase-js`
 
-**Charts & Maps**
+## Charts & Maps
 - `apexcharts` · `react-apexcharts`
+- `chart.js` · `react-chartjs-2`
 - `leaflet` · `react-leaflet`
 
-**Utilities**
-- `date-fns` · `dayjs` · `lodash`
+## Utilities
+- `date-fns` · `dayjs` · `lodash` · `lodash.debounce`
 - `socket.io-client`
 - `@react-pdf/renderer`
+- `xlsx`
 - `dotenv`
 
-**Dev Tools**
+## Dev Tools
 - `eslint` · `eslint-plugin-react` · `eslint-plugin-react-hooks` · `eslint-plugin-react-refresh` · `eslint-plugin-jsx-a11y` · `@eslint/js`
 - `prettier` · `prettier-plugin-tailwindcss`
+- `autoprefixer` · `postcss`
 - `vite-plugin-compression` · `source-map-explorer`
 - `@vitejs/plugin-react` · `tw-animate-css`
 - `@types/node` · `@types/react` · `@types/react-dom` · `globals`
 
 ---
 
-### Project 2: OJT Development *(NEA Service Requests)*
-
-**Core**
-- `react` · `react-dom`
-- `react-router-dom`
-- `vite`
-
-**UI & Styling**
-- `tailwindcss` · `@tailwindcss/vite` · `daisyui` · `clsx`
-- `lucide-react` · `react-icons`
-- `framer-motion` · `@tippyjs/react`
-- `react-hot-toast` · `react-image-magnify-lib`
-
-**Forms & Validation**
-- `react-hook-form` · `@hookform/resolvers` · `zod`
-
-**Data & State**
-- `zustand`
-- `@supabase/supabase-js`
-
-**Charts**
-- `chart.js` · `react-chartjs-2`
-
-**Utilities**
-- `date-fns` · `lodash.debounce`
-- `xlsx`
-
-**Dev Tools**
-- `eslint` · `eslint-plugin-react-hooks` · `eslint-plugin-react-refresh` · `@eslint/js`
-- `prettier` · `prettier-plugin-tailwindcss`
-- `autoprefixer` · `postcss`
-- `@vitejs/plugin-react` · `globals`
-- `@types/react` · `@types/react-dom`
-
----
-
-## 🟢 Backend — Node.js API
+## Backend — Node.js
 
 **Core**
 - `express`
@@ -124,7 +95,7 @@ A breakdown of the libraries and tools I use across my React frontend and Node.j
 
 ---
 
-## 📦 Full Package List (Quick Reference)
+## Full Package List (Quick Reference)
 
 ### Frontend
 `@hookform/resolvers` · `@internationalized/date` · `@radix-ui/react-dialog` · `@radix-ui/react-dropdown-menu` · `@radix-ui/react-popover` · `@radix-ui/react-select` · `@radix-ui/react-separator` · `@radix-ui/react-slot` · `@radix-ui/react-switch` · `@radix-ui/react-tabs` · `@react-pdf/renderer` · `@supabase/supabase-js` · `@tailwindcss/vite` · `@tanstack/react-query` · `@tanstack/react-query-devtools` · `@tanstack/react-table` · `@tippyjs/react` · `apexcharts` · `axios` · `chart.js` · `class-variance-authority` · `clsx` · `cmdk` · `daisyui` · `date-fns` · `dayjs` · `dotenv` · `flowbite-react` · `framer-motion` · `leaflet` · `lodash` · `lodash.debounce` · `lottie-react` · `lucide-react` · `radix-ui` · `react` · `react-apexcharts` · `react-aria-components` · `react-chartjs-2` · `react-confetti` · `react-day-picker` · `react-dom` · `react-fast-marquee` · `react-hook-form` · `react-hot-toast` · `react-icons` · `react-image-magnify-lib` · `react-leaflet` · `react-router-dom` · `socket.io-client` · `sonner` · `tailwind-merge` · `tailwindcss` · `vaul` · `xlsx` · `yup` · `zod` · `zustand`
