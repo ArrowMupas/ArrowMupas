@@ -1,6 +1,6 @@
 # Coding Tools & Apps
 
-A list of the apps, platforms, and extensions I use for development and AI assistance.
+A list of the apps, platforms, sites, and extensions I use for development.
 
 ---
 
@@ -11,10 +11,11 @@ A list of the apps, platforms, and extensions I use for development and AI assis
 | **Axiom** | Log management & observability |
 | **Docker** | Containerization & development environments |
 | **Insomnia** | API testing & debugging |
+| **Postman** | API testing & debugging |
 | **GitHub** | Version control & code hosting |
 | **MySQL Workbench** | Database design & management |
 | **Supabase** | Backend-as-a-service (auth, database, storage) |
-| **VS Code** | Primary code editor |
+| **VS Code** | Primary code editor while also having a lot of what I need through extensions |
 
 ---
 
@@ -50,7 +51,6 @@ A list of the apps, platforms, and extensions I use for development and AI assis
 **Development & Testing**
 - Docker
 - Quokka
-- Insomnia *(app)*
 
 **Themes**
 - Deepdark Material Theme
